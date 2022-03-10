@@ -1,4 +1,4 @@
-## Meu nome é Denner sou Desenvolvedor front-end <br> Estou no quarto semestre de Analise e Desenvolvimento de sistemas <br> Participando do ignite 2021
+## Denner Desenvolvedor front-end <br> quarto semestre de Analise e Desenvolvimento de sistemas <br> ignite 2021
 <div align="center">
   <a href="https://github.com/denner-august" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denner-august&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
