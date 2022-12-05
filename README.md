@@ -38,4 +38,42 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `Node`, `React-native`, `A
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/denner-bernardes/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
+
+<h3>Projetos </h3>
+<table>
+    <thead align="center">
+    <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projects</b></td>
+	    <td><b>Skills</b></td>
+  </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/denner-august/JobNow"><b>JobNow</b></a></td>
+		<td>Desenvolvimento</td>
+  </tr>
+        <tr>
+		<td>2</td>
+		<td><a href="https://github.com/denner-august/fills-calculeitor"><b>fills-calculeitor
+</b></a></td>
+	 	<td> Desenvolvimento</td>
+	    	        </tr>
+        <tr>
+		<td>3</td>
+            	<td><a href="https://github.com/denner-august/ignite-fundamentos-next"><b>IgNews
+</b></a></td>
+		<td>Desenvolvimento</td>
+            		 <tr>
+		<td>4</td>
+            	<td><a href="https://github.com/denner-august/Front-End-Challenge-Coodesh"><b>Desafio front-end coodash
+</b></a></td>
+		<td>Desenvolvimento</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
   
