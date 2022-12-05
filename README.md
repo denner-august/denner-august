@@ -38,7 +38,6 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `Node`, `React-native`, `A
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/denner-bernardes/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-
 <h3>Projetos </h3>
 <table>
     <thead align="center">
@@ -71,12 +70,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/denner-bernarde
 </b></a></td>
 		<td>Desenvolvimento</td>
         </tr>
-	
-
-	
     </tbody>
 </table>
 
-
-
-  
