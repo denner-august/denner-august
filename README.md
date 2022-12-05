@@ -17,9 +17,25 @@
  ##
   <a href="https://instagram.com/denneyaugusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/denner-bernardes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/denner-august" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  
    
   
 ![Snake animation](https://github.com/denner-august/denner-august/blob/output/github-contribution-grid-snake.svg)
 </div>
   
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media-exp1.licdn.com/dms/image/C560BAQGLKwCTEoBRpA/company-logo_100_100/0/1519899248748?e=1678320000&v=beta&t=xLPd1s_wk3XqMWLpWUyGDFE4cFFx-ikUynb11P4H79M"/>](https://rocketseat.com.br/)
+
+**Desenvolvedor front-end (Estágio )** \
+[**Sygecom Informatica**]  \
+Linguagens & Tecnologias: `JavaScript`, `Typescript`, `Node`, `React-native`, `Aws`, `Postgres`, `Api`\
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/denner-bernardes/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
   
