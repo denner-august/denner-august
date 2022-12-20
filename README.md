@@ -1,7 +1,7 @@
 ##  Desenvolvedor front-end 
 <div align="center">
   <a href="https://github.com/denner-august" target="_blank">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denner-august&theme=dracula&show_icons=true" />
+	
 </div>
 <div style="display: inline_block" ><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
